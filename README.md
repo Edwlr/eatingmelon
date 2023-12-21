@@ -3,3 +3,4 @@
 
 - [吃瓜教程第1、2章](https://github.com/Edwlr/eatingmelon/issues/1)
 - [吃瓜教程第3章](https://github.com/Edwlr/eatingmelon/issues/2)
+- [吃瓜教程第4章](https://github.com/Edwlr/eatingmelon/issues/3)
